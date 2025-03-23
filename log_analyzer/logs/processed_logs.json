@@ -1,0 +1,26 @@
+[
+    {
+        "timestamp": "2025-03-22 14:30:05",
+        "user_id": "12345",
+        "log_level": "ERROR",
+        "message": "Database connection failed"
+    },
+    {
+        "timestamp": "2025-03-22 14:32:10",
+        "user_id": "67890",
+        "log_level": "WARNING",
+        "message": "High memory usage detected"
+    },
+    {
+        "timestamp": "2025-03-22 14:35:20",
+        "user_id": "54321",
+        "log_level": "INFO",
+        "message": "User logged in"
+    },
+    {
+        "timestamp": "2025-03-22 14:40:15",
+        "user_id": "98765",
+        "log_level": "ERROR",
+        "message": "Invalid credentials"
+    }
+]
